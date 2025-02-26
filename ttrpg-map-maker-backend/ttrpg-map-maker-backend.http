@@ -1,0 +1,6 @@
+@ttrpg_map_maker_backend_HostAddress = http://localhost:5189
+
+GET {{ttrpg_map_maker_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
