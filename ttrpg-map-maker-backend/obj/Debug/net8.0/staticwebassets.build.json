@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O3gnBdqQBObG82eDLyya4mmxI8bGj1Yd2A6G9EGuPuQ=",
+  "Source": "ttrpg-map-maker-backend",
+  "BasePath": "_content/ttrpg-map-maker-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
