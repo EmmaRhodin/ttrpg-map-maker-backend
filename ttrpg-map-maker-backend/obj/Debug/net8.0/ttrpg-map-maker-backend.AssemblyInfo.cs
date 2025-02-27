@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ttrpg-map-maker-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2661eb8980cfaea6f4033be86ab005d04406c1d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ttrpg-map-maker-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ttrpg-map-maker-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
