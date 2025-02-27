@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ttrpg-map-maker-backend.props" />
+</Project>
